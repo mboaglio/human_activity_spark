@@ -98,7 +98,7 @@ la misma estructura que el archivo de origen, pero agregando una columna adicion
 # Acerca del dataset
 Human Activity Recognition Using Smartphones Dataset / Version 1.0
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
-Se encuentra en la carpeta "dataset", transformado y simplificado para poder ser usado.
+Se encuentra en la carpeta https://github.com/mboaglio/datasets/tree/master/human_activity, transformado y simplificado para poder ser usado.
 1. No tiene titulos
 2. Esta dividido en dos archivos 70% "train" y 30% llamado "test" (utilizado para predecir)
     a.human_activity_train.csv
