@@ -1,11 +1,7 @@
-## Human Activity: accelerometer activity recognition
-#
-# Spark Machine Learning (sparkmllib)
-# Multilayer Perceptron Classifier
-#
-# Marcos Boaglio (mboaglio@acm.org)
-#
-
+# Human Activity: accelerometer activity recognition
+Spark Machine Learning (sparkmllib)
+Multilayer Perceptron Classifier
+Marcos Boaglio (mboaglio@acm.org)
 
 # Introduccion
 El codigo esta escrito en Scala para ser ejecutado en Spark.
