@@ -34,7 +34,7 @@ Para hacerlo toma el archivo de entrada y lo divide en 70% para entrenamiento y 
 Entrena el modelo con el 70%, lo usa para predecir la variable dependiente sobre el 30% y compara resultados
 para finalmente medir los errores en las predicciones y mostrar metricas asociadas al modelo.
 
-En el camino muestra la sigiente informacion:
+En el camino muestra la siguiente informacion:
 
 a. Mapeo de la actividad (variable dependiente) al label asignado por el MPC
 
@@ -106,6 +106,7 @@ Se encuentra en la carpeta https://github.com/mboaglio/datasets/tree/master/huma
 3. La variable dependiente "activity" solo se encuentra en el dataset "train"
 4. En el dataset test se agrega un campo adicional "measure" para poder identificar cada registro con una clave
 
+##
 
 # Clasificador Random Forest
  Jobs en scala para entrenar el modelo y para predecir sobre el dataset
