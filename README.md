@@ -3,6 +3,10 @@ Spark Machine Learning (sparkmllib)
 Multilayer Perceptron Classifier
 Marcos Boaglio (mboaglio@acm.org)
 
+<p align="center">
+	<img src="unknown.jpeg" width="60%"/>
+</p>
+
 # Introduccion
 El codigo esta escrito en Scala para ser ejecutado en Spark.
 Fue probado en Spark version 2.1.2 y Scala version 2.11.8 (OpenJDK 64-Bit Server VM, Java 1.8.0_151)
