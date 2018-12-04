@@ -4,7 +4,7 @@ Multilayer Perceptron Classifier
 Marcos Boaglio (mboaglio@acm.org)
 
 <p align="center">
-	<img src="unknown.jpeg" width="60%"/>
+	<img src="Unknown.jpeg" width="60%"/>
 </p>
 
 # Introduccion
